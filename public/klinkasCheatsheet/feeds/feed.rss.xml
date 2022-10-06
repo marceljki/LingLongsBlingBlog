@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xml:lang="en-us"
+    xml:base="/">
+    <channel>
+        <title type="html"><![CDATA[KlinkasCheatsheets - Ed.]]></title>
+    </channel>
+    <link type="text/html">/</link>
+    
+    <image>
+        <url>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
+        <title type="html"><![CDATA[KlinkasCheatsheets - Ed.]]></title>
+        <link>/</link>
+        <width>96</width>
+        <height>96</height>
+    </image>
+    <atom:link href="/klinkascheatsheet/" rel="alternate" type="text/html" title="HTML" />
+    <atom:link href="/klinkascheatsheet/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
+    <atom:link href="/klinkascheatsheet/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
+    <atom:link href="/klinkascheatsheet/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+    <description type="html"><![CDATA[Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.]]></description>
+    <generator>Hugo 0.104.0</generator>
+    <dc:creator type="html"><![CDATA[John Doe]]></dc:creator>
+    <language>en-us</language>
+    <copyright>Copyright © 2019-2022 John Doe</copyright>
+    <lastBuildDate>Mon, 26 Sep 2022 16:50:39 +0200</lastBuildDate>
+    <item>
+        <title type="html"><![CDATA[CheatSheet]]></title>
+        <link>/klinkascheatsheet/cheatsheet/?utm_source=rss_feed</link>
+        <pubDate>Mon, 26 Sep 2022 16:50:39 +0200</pubDate>
+        <category>klinkasCheatsheet</category>
+        <guid isPermaLink="false">57f3ee958837c384c11f71a88313e5c3</guid>
+        <description type="html"><![CDATA[Chapter 1: How to make a basic site like this So, how to make a site like this, you ask? Let me explain what I learned so far. The page you see right now is made with an easy and lightweight language called Markdown. You can write your own pages by using a plain text editor like MacDown.
+In the beginning of our project you will probably start to get to know the markdown language.]]></description>
+    </item>
+    
+</rss>

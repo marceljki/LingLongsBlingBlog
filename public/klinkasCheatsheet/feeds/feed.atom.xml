@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-us" xml:base="/">
+    <title type="html"><![CDATA[KlinkasCheatsheets - Ed.]]></title>
+    <subtitle type="html"><![CDATA[Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.]]></subtitle>
+    <link href="/klinkascheatsheet/" rel="alternate" type="text/html" title="HTML" />
+    <link href="/klinkascheatsheet/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
+    <link href="/klinkascheatsheet/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
+    <link href="/klinkascheatsheet/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+    <icon>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</icon>
+    <logo>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</logo>
+    <author>
+        <name type="html"><![CDATA[John Doe]]></name>
+        <email>john@example.com</email>
+    </author>
+    <rights>Copyright © 2019-2022 John Doe</rights>
+    <generator uri="https://gohugo.io" version="0.104.0">Hugo</generator>
+    <updated>2022-09-26T16:50:39+02:00</updated>
+    <id>urn:uuid:42099b4a-f021-553f-d98f-e056c2568d7c</id>
+    <entry>
+        
+        <category term="klinkasCheatsheet" />
+        
+        <link rel="alternate" type="type/html" href="/klinkascheatsheet/cheatsheet/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[CheatSheet]]></title>
+        
+        
+        
+        <published>2022-09-26T16:50:39+02:00</published>
+        <id>urn:uuid:c9940a73-6437-558d-59e4-6cf15d10b0af</id>
+        
+        <summary type="html"><![CDATA[Chapter 1: How to make a basic site like this So, how to make a site like this, you ask? Let me explain what I learned so far. The page you see right now is made with an easy and lightweight language called Markdown. You can write your own pages by using a plain text editor like MacDown.
+In the beginning of our project you will probably start to get to know the markdown language.]]></summary>
+    </entry>
+</feed>

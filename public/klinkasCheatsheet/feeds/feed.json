@@ -1,0 +1,25 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "KlinkasCheatsheets - Ed.",
+  "home_page_url": "/",
+  
+  "description": "Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.",
+  "icon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "favicon": "/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png",
+  "authors": [
+    {
+      "name": "John Doe",
+      "url": "https://twitter.com/john_doe"
+    }
+  ],
+  "language" : "en-us",
+  "items": [
+    {
+      "id": "c9940a73-6437-558d-59e4-6cf15d10b0af",
+      "url": "/klinkascheatsheet/cheatsheet/?utm_source=json_feed",
+      "title": "CheatSheet",
+      "summary": "Chapter 1: How to make a basic site like this So, how to make a site like this, you ask? Let me explain what I learned so far. The page you see right now is made with an easy and lightweight language called Markdown. You can write your own pages by using a plain text editor like MacDown.\nIn the beginning of our project you will probably start to get to know the markdown language.",
+      "date_published": "2022-09-26T16:50:39+02:00"
+    }
+  ]
+}
